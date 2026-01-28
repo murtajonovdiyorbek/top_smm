@@ -1,0 +1,98 @@
+{
+  "users": {
+    "2138780687": {
+      "balance": 10100,
+      "orders": [
+        1
+      ],
+      "username": "diyorbek_muratjonov",
+      "first_name": "М.Д.М"
+    },
+    "6690120296": {
+      "balance": 0,
+      "orders": [],
+      "username": "mrtv_16",
+      "first_name": "16",
+      "registered_at": "2026-01-28 18:29:26"
+    },
+    "1178689550": {
+      "balance": 0,
+      "orders": [],
+      "username": null,
+      "first_name": "Отабек",
+      "registered_at": "2026-01-28 19:26:20"
+    }
+  },
+  "orders": [
+    {
+      "id": 1,
+      "user_id": 2138780687,
+      "platform": "instagram",
+      "service": "👥 Подписчики",
+      "link": "instagram.com/16.mrtv",
+      "price": 45,
+      "quantity": 100,
+      "service_id": "2342",
+      "smm_order_id": "FAILED",
+      "date": "2026-01-28 16:46:51",
+      "status": "failed"
+    }
+  ],
+  "pending_payments": [
+    {
+      "id": 1,
+      "user_id": 2138780687,
+      "username": "diyorbek_muratjonov",
+      "first_name": "М.Д.М",
+      "photo_id": "AgACAgIAAxkBAAIDw2l55I1-Y8FSzmPh6S-ia0iBzGZqAAJTDmsbel_RS95rJul29xqHAQADAgADeAADOAQ",
+      "expected_amount": 100,
+      "date": "2026-01-28 16:27:25",
+      "status": "approved",
+      "actual_amount": 100
+    },
+    {
+      "id": 2,
+      "user_id": 2138780687,
+      "username": "diyorbek_muratjonov",
+      "first_name": "М.Д.М",
+      "photo_id": "AgACAgIAAxkBAAID12l55M_RE7WxkuHMlQ__nfoI0obrAAKUEmsbppLJS6XPpIB4CPkuAQADAgADeQADOAQ",
+      "expected_amount": 100,
+      "date": "2026-01-28 16:28:30",
+      "status": "approved",
+      "actual_amount": 100
+    },
+    {
+      "id": 3,
+      "user_id": 2138780687,
+      "username": "diyorbek_muratjonov",
+      "first_name": "М.Д.М",
+      "photo_id": "AgACAgIAAxkBAAID72l55vEuquRPGlvvnOrKnGdQgngxAAJdDmsbel_RS6GbAw9ypWbdAQADAgADeAADOAQ",
+      "expected_amount": 100,
+      "date": "2026-01-28 16:37:37",
+      "status": "approved",
+      "actual_amount": 100
+    },
+    {
+      "id": 4,
+      "user_id": 2138780687,
+      "username": "diyorbek_muratjonov",
+      "first_name": "М.Д.М",
+      "photo_id": "AgACAgIAAxkBAAIEA2l56NLfd8QGZZVkaqC3hQFb0uCDAAKDDmsbel_RS3KPDVMB8dlQAQADAgADeQADOAQ",
+      "expected_amount": 100,
+      "date": "2026-01-28 16:45:38",
+      "status": "approved",
+      "actual_amount": 100
+    },
+    {
+      "id": 5,
+      "user_id": 2138780687,
+      "username": "diyorbek_muratjonov",
+      "first_name": "М.Д.М",
+      "photo_id": "AgACAgIAAxkBAAIEA2l56NLfd8QGZZVkaqC3hQFb0uCDAAKDDmsbel_RS3KPDVMB8dlQAQADAgADeQADOAQ",
+      "expected_amount": 10000,
+      "date": "2026-01-28 18:12:23",
+      "status": "approved",
+      "actual_amount": 10000
+    }
+  ]
+}
